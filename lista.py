@@ -8,3 +8,5 @@ for x in range (0, 100):
         d3.append(x)
 print(f"Liczby dzielone na 5: {d5}")
 print(f"Liczby dzielone na 5 podniesione do potęgi 3: {d3}")
+
+print("Test git")
